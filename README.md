@@ -1,3 +1,4 @@
+# I'm Bilal Ahmad
 # 💫 About Me:
 Hi, I’m a MERN Stack Developer<br> Currently working on:<br>Building scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js for freelance clients.<br> Looking to collaborate on:<br>Open-source MERN projects, SaaS products, and startup ideas with real-world impact.<br> Looking for help with:<br>Advanced system design, performance optimization, and cloud-ready architectures.<br> Currently learning:<br>Next.js, advanced React patterns, backend security, and cloud deployment.<br> Ask me about:<br>MERN Stack, REST APIs, authentication (JWT), MongoDB, React hooks, and freelancing.<br> Fun fact:<br>I love converting complex ideas into clean, high-performance web apps.
 
